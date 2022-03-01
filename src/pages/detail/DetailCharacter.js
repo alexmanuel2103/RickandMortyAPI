@@ -18,7 +18,7 @@ const DetailCharacter = () => {
             console.log(character)
         };
         fetchCharacter();
-    }, []);
+    }, );
 
     return (
         <React.Fragment>
