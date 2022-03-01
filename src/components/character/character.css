@@ -1,0 +1,15 @@
+.Character__container{
+    padding: 20px;
+    margin: 10px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    text-align: center;
+    float: left;
+    width: 500px;
+    background-color: #b09dff;
+
+}

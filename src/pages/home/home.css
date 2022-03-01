@@ -1,0 +1,29 @@
+.top{
+    
+    align-items: center;
+    position: relative;
+    border-bottom-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    border-top-left-radius: 15px;
+}
+
+.title{
+    position: relative;
+    align-items: center;
+    left: 60px;
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.name{
+    position: relative;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    left: 60px;
+}
+
+.background{
+        background-color: #000000;
+}
+

@@ -1,0 +1,14 @@
+.Details_data{
+    padding: 20px;
+    margin: 10px;
+    border-bottom-left-radius: 15px;
+    border-top-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    border-top-right-radius: 15px;
+    border-radius: 15px;
+    align-content: center;
+    width: 300px;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #b09dff;
+}
