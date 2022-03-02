@@ -1,7 +1,7 @@
 .top{
-    
     align-items: center;
     position: relative;
+    margin-left: 25px;
     border-bottom-left-radius: 15px;
     border-top-right-radius: 15px;
     border-bottom-right-radius: 15px;
@@ -10,20 +10,21 @@
 
 .title{
     position: relative;
-    align-items: center;
+    
     left: 60px;
     font-size: 50px;
-    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .name{
     position: relative;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #ffffff;
+    text-align: center;
     font-size: 25px;
     left: 60px;
 }
 
-.background{
-        background-color: #000000;
-}
 
