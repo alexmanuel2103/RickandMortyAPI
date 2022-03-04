@@ -1,18 +1,13 @@
-.Details_data{
-    padding: 20px;
-    margin: auto;
-    border-bottom-left-radius: 15px;
-    border-top-left-radius: 15px;
-    border-bottom-right-radius: 15px;
-    display: inline-block;
-    border-top-right-radius: 15px;
-    border-radius: 15px;
-    align-items: center;
-    color: #ffffff;
-    width: 300px;
-    font-size: 20px;
+.Details_container{
     font-family: Arial, Helvetica, sans-serif;
-    background-color: #ff82e4;
+    background-color: #ff82e4 ;
+    margin-left: 25%;
+    margin-right: 25%;
+    text-align: center;
+    border-radius: 15px;
+    width: 600px;
+    color:aliceblue;
+    padding: 10px;
 }
 
 
