@@ -9,6 +9,12 @@
     font-size: 18px;
     color: #ffffff;
     text-align: center;
+    align-items: center;
     width: 300px;
     background-color: #ff82e4;
+}
+
+.Details_image{
+    display: inline-block;
+    align-items: center;
 }
